@@ -1,0 +1,6 @@
+This is an example text file
+The go code checks for duplicate lines
+Just writing some random stuff
+coffee is good
+The go code checks for duplicate lines
+This is an example text file
